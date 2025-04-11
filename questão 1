@@ -1,0 +1,9 @@
+//1
+// funcao com retorno
+function soma (a, b) { // nome da funçãoé "soma"
+      return a + b // parametros
+    }
+    
+    let resultado = soma(5, 6)// valores atribuidos aos parametros
+    console.log(resultado)
+
